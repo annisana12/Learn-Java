@@ -1,4 +1,0 @@
--------------------------------------------------------------------------------
-Test set: test.CalculatorTest
--------------------------------------------------------------------------------
-Tests run: 6, Failures: 0, Errors: 0, Skipped: 3, Time elapsed: 0.18 s - in test.CalculatorTest
